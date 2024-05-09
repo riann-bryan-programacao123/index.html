@@ -1,0 +1,9 @@
+.fundo{background-color: rgb(121, 82, 82);height: 100px;}
+.linha{background-color: darkgray;height: 100px;}
+.linha2{ background-color:rgb(190, 187, 187);height: 100px;}
+.linha3{background-color: rgb(218, 218, 223);height: 100px;}
+.linha4{background-color: rgb(254, 255, 255); height: 100px;}
+body{background-color: darkslategray;}
+.tudo{border-radius: 100px;}
+.fotos{height: 300px;
+right: 100;}
